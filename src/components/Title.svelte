@@ -3,7 +3,7 @@
 </script>
 
 <section transition:fade>
-    <video src="../../../../public/video/mountains.mp4" autoplay loop muted />
+    <video src="/video/mountains.mp4" autoplay loop muted />
     <h2>el shaddai</h2>
 </section>
 <slot />
